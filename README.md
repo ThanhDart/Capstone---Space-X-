@@ -4,7 +4,7 @@
 
 + Project background
     - We will predict if the Falcon 9 first stage will land successfully
-    -Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars
+    - Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars
     - Other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage
 + Problems you want to find answers:
    
