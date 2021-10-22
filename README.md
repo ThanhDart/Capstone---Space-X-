@@ -8,7 +8,7 @@
     - Other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage
 + Problems you want to find answers:
    
-    - We can determine if the first stage will land, we can determine the cost of a launch
+    - If we can determine whether the first stage will land, we can determine the cost of a launch
     - The correlation of multiples factors ( payload, launch sites, launching year, etc.) on the success rate of the landing of the first stage of Falcon 9
     - Identify the requirements of launch sites (close to coastline, or the residential area?)
     - Which ML model provides the best prediction for the success rate of the rocket launch
